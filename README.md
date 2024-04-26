@@ -29,8 +29,8 @@ Ktor trabaja sobre la idea de módulos y características. Cada aplicación Ktor
 
 ## Como hacer tu primera API con Ktor
 
-Accedemos a [Ktor project generator](https://start.ktor.io/#/settings)
-
+Accedemos a 
+<a href="https://start.ktor.io/#/settings" target="_blank">Ktor Project generator</a>
 - Le ponemos el nombre que queramos
 - En adjust project settings seleccionamos
 - Gradle kotlin
